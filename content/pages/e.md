@@ -1,5 +1,6 @@
 ---
 title: Subscribe for Updates
+layout: advanced
 ---
 
 <p>
