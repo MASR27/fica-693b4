@@ -10,7 +10,6 @@ export {
     home,
     product
     store
-   
 };
 
 export default {
