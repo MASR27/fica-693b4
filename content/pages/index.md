@@ -26,9 +26,12 @@ sections:
           name: John Dope
           location: 'Colorado, USA'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          Mirará
+           más allá del mercado de la marihuana recreativa a "todo lo demás que 
+          pueda hacer con la planta", incluidas las aplicaciones para
+          alimentos, 
+
+          bebidas, cosméticos, sueño, dolor y ansiedad, agregó.
       - author:
           name: Major Payne
           location: 'VA, USA'
