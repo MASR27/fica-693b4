@@ -29,7 +29,11 @@ sections:
       - author:
           name: Major Payne
           location: 'VA, USA'
-        text: "Existe un gran interés en el desarrollo de terapias y otros productos de consumo derivados del cannabis y sus componentes.\_La FDA reconoce las oportunidades potenciales que el cannabis o los compuestos derivados del cannabis pueden ofrecer y reconoce el gran interés en estas posibilidades."
+        text: >-
+          Existe un gran interés en el desarrollo de terapias y otros productos
+          de consumo derivados del cannabis y sus componentes [...] reconociendo
+          las oportunidades potenciales que el cannabis o los compuestos
+          derivados pueden ofrecer.
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
