@@ -8,7 +8,7 @@ export {
     advanced,
     category,
     home,
-    product;
+    product,
     store
 };
 
