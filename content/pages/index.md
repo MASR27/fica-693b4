@@ -23,7 +23,7 @@ sections:
     title: Testimonios
     testimonials:
       - author:
-          name: John Dope
+          name: Silver Spike capital
           location: 'Colorado, USA'
         text: "Mirar más allá del mercado de la marihuana recreativa\_ \"todo lo demás que \npueda hacer con la planta\", incluidas las aplicaciones para alimentos, \nbebidas, cosméticos, sueño, dolor y ansiedad,"
       - author:
