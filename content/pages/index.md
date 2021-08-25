@@ -29,9 +29,7 @@ sections:
       - author:
           name: Major Payne
           location: 'VA, USA'
-        text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+        text: "Existe un gran interés en el desarrollo de terapias y otros productos de consumo derivados del cannabis y sus componentes, incluido el cannabidiol (CBD).\_La FDA reconoce las oportunidades potenciales que el cannabis o los compuestos derivados del cannabis pueden ofrecer y reconoce el gran interés en estas posibilidades."
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
