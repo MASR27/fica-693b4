@@ -27,7 +27,7 @@ sections:
           location: 'Nueva York, E.U.'
         text: "Mirar más allá del mercado de la marihuana recreativa\_ \"todo lo demás que \npueda hacer con la planta\", incluidas las aplicaciones para alimentos, \nbebidas, cosméticos, sueño, dolor y ansiedad,"
       - author:
-          name: Major Payne
+          name: FDA
           location: 'VA, USA'
         text: >-
           Existe un gran interés en el desarrollo de terapias y otros productos
