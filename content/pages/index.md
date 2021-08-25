@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/hgh.001.jpeg
+    background_image: images/gmh.001.jpeg
     background_image_opacity: 65
     content: >
       # FICA
