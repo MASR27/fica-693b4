@@ -18,5 +18,5 @@ export default {
     category,
     home,
     product,
-
+    store
 };
