@@ -7,7 +7,7 @@ export {
     advanced,
     category,
     home,
-    product,
+    product
    
 };
 
