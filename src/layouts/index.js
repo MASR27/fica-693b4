@@ -8,8 +8,8 @@ export {
     advanced,
     category,
     home,
-    product
-    store;
+    product;
+    store
 };
 
 export default {
