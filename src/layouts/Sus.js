@@ -1,8 +1,3 @@
----
-layout: page
-title: Subscribe for Updates
----
-
 <p>
 Want to be informed when I post new articles? If you've got an RSS reader you can 
 subscribe to my <a href="/feed.xml">feed</a>. If you would rather get an email, simply enter your
