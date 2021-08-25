@@ -9,7 +9,7 @@ export {
     category,
     home,
     product
-    store
+    store;
 };
 
 export default {
