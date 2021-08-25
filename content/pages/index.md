@@ -28,7 +28,7 @@ sections:
         text: "Mirar más allá del mercado de la marihuana recreativa\_ \"todo lo demás que \npueda hacer con la planta\", incluidas las aplicaciones para alimentos, \nbebidas, cosméticos, sueño, dolor y ansiedad,"
       - author:
           name: FDA
-          location: 'VA, USA'
+          location: 'White Oak, USA'
         text: >-
           Existe un gran interés en el desarrollo de terapias y otros productos
           de consumo derivados del cannabis y sus componentes [...] reconociendo
