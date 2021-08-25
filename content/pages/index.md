@@ -25,13 +25,7 @@ sections:
       - author:
           name: John Dope
           location: 'Colorado, USA'
-        text: >-
-          Mirará
-           más allá del mercado de la marihuana recreativa a "todo lo demás que 
-          pueda hacer con la planta", incluidas las aplicaciones para
-          alimentos, 
-
-          bebidas, cosméticos, sueño, dolor y ansiedad, agregó.
+        text: "Mirar más allá del mercado de la marihuana recreativa\_ \"todo lo demás que \npueda hacer con la planta\", incluidas las aplicaciones para alimentos, \nbebidas, cosméticos, sueño, dolor y ansiedad,"
       - author:
           name: Major Payne
           location: 'VA, USA'
