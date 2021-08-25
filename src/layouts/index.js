@@ -9,6 +9,7 @@ export {
     category,
     home,
     product
+    store
    
 };
 
