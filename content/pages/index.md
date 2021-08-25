@@ -24,7 +24,7 @@ sections:
     testimonials:
       - author:
           name: Silver Spike capital
-          location: 'Colorado, USA'
+          location: 'Nueva York, E.U.'
         text: "Mirar más allá del mercado de la marihuana recreativa\_ \"todo lo demás que \npueda hacer con la planta\", incluidas las aplicaciones para alimentos, \nbebidas, cosméticos, sueño, dolor y ansiedad,"
       - author:
           name: Major Payne
