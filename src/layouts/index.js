@@ -9,7 +9,9 @@ export { function initNetlifyIdentify() {
     const script = document.createElement("script");
 
     script.src = "https://identify.netlify.com/v1/netlyfy-identify-widget.js"
-    
+    script.async = true;
+
+    document.dody.appendChild(script)
     
     
 }
