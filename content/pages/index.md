@@ -8,7 +8,7 @@ sections:
     background_image: images/nbnb.001.jpeg
     background_image_opacity: 65
     content: >
-      # FICA
+      # Bienvenido
 
 
       Don't forget to add your Snipcart API key to the site's configuration to
