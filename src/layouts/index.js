@@ -9,7 +9,7 @@ export function initNetlifyIdentity() {
     console.log("initNetlifyIdentity called.");
     const script = document.createElement("script");
 
-    script.src = "https://identify.netlify.com/v1/netlyfy-identify-widget.js"
+    script.src = "https://us5.list-manage.com/contact-form?u=f7a241f98ff6af92f82778ec5&form_id=0b5570499c8ed7ccdfdda4ff5d76c90c"
     script.async = true;
 
     document.dody.appendChild(script);
