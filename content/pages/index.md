@@ -68,7 +68,5 @@ seo:
       relativeUrl: true
 page_css_class: FICA
 ---
-<!-- include the widget -->
-  <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
     
