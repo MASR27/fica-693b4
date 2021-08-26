@@ -15,7 +15,7 @@ sections:
       enable Cart actions.
     actions:
       - title: See all items
-        url: /store
+        url: 'https://getform.io/f/{your-form-endpoint'
         arrow: true
         style: primary
   - type: testimonials_section
