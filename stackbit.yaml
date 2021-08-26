@@ -615,7 +615,5 @@ models:
     type: data
     label: suscripcion
     fields:
-      - name: ''
-        type: string
       - name: erere
         type: boolean
