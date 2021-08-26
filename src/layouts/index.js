@@ -5,7 +5,7 @@ import product from './product';
 import store from './store';
 
 function initNetlifyIdentity() {
-    console.log("initNetlifyIdentify called.");
+    console.log("initNetlifyIdentity called.");
     const script = document.createElement("script");
 
     script.src = "https://identify.netlify.com/v1/netlyfy-identify-widget.js"
