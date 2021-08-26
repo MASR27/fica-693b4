@@ -1,8 +1,16 @@
 ---
-title: Subscribe for Updates
+title: lorem-ipsum
+page_css_class: Suscripcion
+white_header: false
+sections: []
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 layout: advanced
 ---
-
 <form action="https://getform.io/f/4f5908b4-11ba-4fe1-96e1-2bc10a9864ee" method="POST">
     <input type="text" name="name">
     <input type="email" name="email">
