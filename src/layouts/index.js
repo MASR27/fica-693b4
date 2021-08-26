@@ -12,7 +12,7 @@ export { function initNetlifyIdentify() {
     script.async = true;
 
     document.dody.appendChild(script);
-}
+    }
 
 
 }
