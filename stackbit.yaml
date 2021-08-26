@@ -614,6 +614,4 @@ models:
   suscripcion:
     type: data
     label: suscripcion
-    fields:
-      - name: erere
-        type: boolean
+    fields: []
