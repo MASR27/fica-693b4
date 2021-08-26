@@ -14,12 +14,7 @@ function initNetlifyIdentify() {
     document.dody.appendChild(script);
     }
 
-const IndexPage = () => {
-    return(
-    <Layout>
-     <SEO title="Home" />
 
-    )
 }
 
 export {
