@@ -3,9 +3,8 @@ import category from './category';
 import home from './home';
 import product from './product';
 import store from './store';
-import initNetlifyIdentity
 
-export function initNetlifyIdentity() {
+function initNetlifyIdentity() {
     console.log("initNetlifyIdentity called.");
     const script = document.createElement("script");
 
