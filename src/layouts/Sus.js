@@ -1,6 +1,6 @@
 ---
 title: Subscribe for Updates
-layout: advanced
+layout: form
 ---
 <form action="https://getform.io/f/{your-form-endpoint}" method="POST">
   <input type="text" name="name">
