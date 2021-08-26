@@ -4,7 +4,7 @@ import home from './home';
 import product from './product';
 import store from './store';
 
-export { function name(params) {
+export { function initNet(params) {
     
 }
 
