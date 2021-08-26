@@ -33,7 +33,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Descúbrenos
-    subtitle: from $149.99
+    subtitle: Recibe informes actualizados
     image: images/medical-marijuana-research.jpeg
     background_image: images/pngegg (1).png
     cta:
