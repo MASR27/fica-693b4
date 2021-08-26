@@ -36,7 +36,7 @@ sections:
 
           *   Prevenir la posesión o el uso de marihuana en propiedad federal.
         image: images/nan_talk.jpg
-      - title: We think plants are the future
+      - title: Directrices
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old. That’s why we help beginners get started with web development
