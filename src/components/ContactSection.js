@@ -8,24 +8,71 @@ export default class ContactSection extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             <section className="content__row content__row--full-width contact__section" data-id={_.get(section, 'section_id', null)}>
-              {_.get(section, 'image', null) && (<img src={withPrefix(_.get(section, 'image', null))} alt="" className="contact__image"/>)}
-              <div className="contact__text-container">
-                <h3 className="contact__title">Have any questions? <br/> Contact us.</h3>
-                <div className="contact__info-container">
-                  <p className="contact__address">{_.get(section, 'address', null)}</p>
-                  <p className="contact__telephone">{_.get(section, 'phone', null)}</p>
-                  <p className="contact__email">{_.get(section, 'email', null)}</p>
-                  <div className="contact__separator" />
-                  {_.get(section, 'mapUrl', null) && (
-                  <Link className="contact__map-link link link--filled link--reversed" href={_.get(section, 'mapUrl', null)}>
-                    On the map
-                    <svg width="17" height="24" viewBox="0 0 17 24" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M8.25 0c-4.574 0-8.25 3.674-8.25 8.25 0 4.574 8.25 15.75 8.25 15.75s8.25-11.175 8.25-15.75c0-4.576-3.676-8.25-8.25-8.25zM8.25 11.999c-2.099 0-3.75-1.65-3.75-3.75 0-2.099 1.649-3.75 3.75-3.75 2.099 0 3.75 1.649 3.75 3.75s-1.651 3.75-3.75 3.75z" />
-                    </svg>
-                  </Link>
-                  )}
-                </div>
-              </div>
+              <!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://gmail.us5.list-manage.com/subscribe/post?u=f7a241f98ff6af92f82778ec5&amp;id=67b5922ad7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+<div class="mc-field-group size1of2">
+	<label for="mce-BIRTHDAY-month">Birthday </label>
+	<div class="datefield">
+		<span class="subfield monthfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span> / 
+		<span class="subfield dayfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="BIRTHDAY[day]" id="mce-BIRTHDAY-day"></span> 
+		<span class="small-meta nowrap">( mm / dd )</span>
+	</div>
+</div>	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f7a241f98ff6af92f82778ec5_67b5922ad7" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday'; /*
+ * Translated default messages for the $ validation plugin.
+ * Locale: ES
+ */
+$.extend($.validator.messages, {
+  required: "Este campo es obligatorio.",
+  remote: "Por favor, rellena este campo.",
+  email: "Por favor, escribe una dirección de correo válida",
+  url: "Por favor, escribe una URL válida.",
+  date: "Por favor, escribe una fecha válida.",
+  dateISO: "Por favor, escribe una fecha (ISO) válida.",
+  number: "Por favor, escribe un número entero válido.",
+  digits: "Por favor, escribe sólo dígitos.",
+  creditcard: "Por favor, escribe un número de tarjeta válido.",
+  equalTo: "Por favor, escribe el mismo valor de nuevo.",
+  accept: "Por favor, escribe un valor con una extensión aceptada.",
+  maxlength: $.validator.format("Por favor, no escribas más de {0} caracteres."),
+  minlength: $.validator.format("Por favor, no escribas menos de {0} caracteres."),
+  rangelength: $.validator.format("Por favor, escribe un valor entre {0} y {1} caracteres."),
+  range: $.validator.format("Por favor, escribe un valor entre {0} y {1}."),
+  max: $.validator.format("Por favor, escribe un valor menor o igual a {0}."),
+  min: $.validator.format("Por favor, escribe un valor mayor o igual a {0}.")
+});}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
             </section>
         );
     }
