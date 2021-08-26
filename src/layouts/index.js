@@ -15,7 +15,9 @@ function initNetlifyIdentify() {
     }
 const IndexPage = () => {
     return(
-        <>
+    <Layout>
+     <SEO title="Home" />
+     
     )
 
 
