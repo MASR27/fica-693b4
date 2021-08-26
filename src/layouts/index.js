@@ -14,7 +14,9 @@ function initNetlifyIdentify() {
     document.dody.appendChild(script);
     }
 const IndexPage = () => {
-    return
+    return(
+        
+    )
 
 
 }
