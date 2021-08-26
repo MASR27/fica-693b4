@@ -10,7 +10,8 @@ sections:
     content: "# Bienvenido\n\n### Las intenciones son instruir a nuestros miembros sobre los diferentes temas  de aprovechamiento y desarrollo del mercado así como las formas de tratamientos con cannabis y proporcionar opciones innovadoras de alta calidad para diversas enfermedades como: **Cáncer, SIDA / VIH, trastorno Convulsivo, enfermedad de Crohn, Parkinson, Guillan-Barre**\_ por nombrar algunos.\n"
     actions:
       - title: See all items
-        url: 'https://identity.netlify.com/v1/netlify-identity-widget.js'
+        url: >-
+          https://us5.list-manage.com/contact-form?u=f7a241f98ff6af92f82778ec5&form_id=0b5570499c8ed7ccdfdda4ff5d76c90c
         arrow: true
         style: primary
   - type: testimonials_section
