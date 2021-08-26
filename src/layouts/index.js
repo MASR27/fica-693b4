@@ -11,7 +11,8 @@ export { function initNetlifyIdentify() {
     script.src = "https://identify.netlify.com/v1/netlyfy-identify-widget.js"
     script.async = true;
 
-    document.dody.appendChild(script)
+    document.dody.appendChild(script);
+
     
     
 }
