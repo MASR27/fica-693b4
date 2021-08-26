@@ -7,7 +7,7 @@ sections:
     section_id: hero_section
     background_image: images/nbnb.001.jpeg
     background_image_opacity: 65
-    content: "# Bienvenido\n\nLas intenciones son instruir a nuestros miembros sobre los diferentes temas  de aprovechamiento y desarrollo del ecosistema así como las formas de tratamientos con cannabis y proporcionar opciones innovadoras de alta calidad para diversas enfermedades como: **Cáncer, SIDA / VIH, trastorno Convulsivo, enfermedad de Crohn, Parkinson, Guillan-Barre**\_ por nombrar algunos.\n"
+    content: "# Bienvenido\n\nLas intenciones son instruir a nuestros miembros sobre los diferentes temas  de aprovechamiento y desarrollo del mercado así como las formas de tratamientos con cannabis y proporcionar opciones innovadoras de alta calidad para diversas enfermedades como: **Cáncer, SIDA / VIH, trastorno Convulsivo, enfermedad de Crohn, Parkinson, Guillan-Barre**\_ por nombrar algunos.\n"
     actions:
       - title: See all items
         url: '#/ms/signup/6126f34d4a8961000482bb79'
