@@ -55,7 +55,7 @@ sections:
     image: images/5.png
     background_image: /images/leaf.svg
     cta:
-      title: Discover
+      title: Suscríbete
       url: /store
       style: primary
       arrow: true
