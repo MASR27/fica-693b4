@@ -1,17 +1,3 @@
----
-title: Contacto
-page_css_class: lorem-ipsum
-white_header: false
-sections: []
-seo:
-  title: ''
-  description: ''
-  robots: []
-  extra: []
-  type: stackbit_page_meta
-layout: advanced
----
-
 import React, { Component } from 'react'
 
 import { NetlifyForm, Honeypot } from 'react-netlify-forms'
