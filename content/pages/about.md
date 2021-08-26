@@ -6,45 +6,58 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: images/pngegg (1).png
-    headline: We are Planty
-    subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+    headline: Fundación de Investigación Cannábica
+    subtitle: >
+      ## **Este proyecto establece una base de investigación sobre la cual se
+      pueden realizar análisis estratégicos continuos. Este esfuerzo proporciona
+      un análisis verificable de una variedad de información y datos, que se ha
+      centralizado como parte de este esfuerzo de investigación.**
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love plants
-        description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
+      - title: Objetivo
+        description: >
+          *   Prevenir la distribución de marihuana a menores.
+
+
+          *   Evitar que la actividad de marihuana autorizada por el estado se
+          use como cubierta o pretexto para el tráfico de otras drogas ilegales
+          u otra actividad ilegal.
+
+
+          *   Prevenir las consecuencias adversas para la salud pública
+          asociadas con el uso de marihuana;
+
+
+          *   Prevenir el cultivo de marihuana en tierras públicas y los
+          peligros para la seguridad pública y el medio ambiente que conlleva la
+          producción de marihuana en tierras públicas.
+
+
+          *   Prevenir la posesión o el uso de marihuana en propiedad federal.
         image: images/nan_talk.jpg
-      - title: We think plants are the future
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
-        image: images/team.jpg
+      - title: Directrices
+        description: >
+          1.  Los adultos deben consumir cannabis como parte de un estilo de
+          vida saludable, equilibrado y responsable.
+
+
+          2.  La decisión de consumir cannabis debe tomarse libremente y no como
+          resultado de la presión social.
+
+
+          3.  Los consumidores de cannabis deben estar bien informados sobre sus
+          efectos en ellos mismos y en los demás.
+        image: images/131568687_809248299984199_3899465030991960064_n.jpeg
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    background_image: /images/leaf.svg
+    title: Informate de las novedades del ecosistema
+    image: images/5.png
+    background_image: images/Sin título 4-0314b6d6.png
     cta:
-      title: Discover
-      url: /store
+      title: Suscríbete
+      url: >-
+        https://us5.list-manage.com/contact-form?u=f7a241f98ff6af92f82778ec5&form_id=0b5570499c8ed7ccdfdda4ff5d76c90c
       style: primary
       arrow: true
 seo:

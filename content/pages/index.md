@@ -32,21 +32,16 @@ sections:
           derivados pueden ofrecer.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
+    title: Informate de todo
+    subtitle: Recibe informes actualizados
+    image: images/medical-marijuana-research.jpeg
     background_image: images/pngegg (1).png
     cta:
-      title: Discover
-      url: /store
+      title: Descúbrenos
+      url: >-
+        https://us5.list-manage.com/contact-form?u=f7a241f98ff6af92f82778ec5&form_id=0b5570499c8ed7ccdfdda4ff5d76c90c
       style: secondary
       arrow: true
-  - section_id: lorem-ipsum
-    address: lorem-ipsum
-    phone: lorem-ipsum
-    email: lorem-ipsum
-    mapUrl: lorem-ipsum
-    type: contact_section
 seo:
   title: FICA
   description: The preview of the Planty theme
