@@ -56,7 +56,8 @@ sections:
     background_image: images/Sin título 4-0314b6d6.png
     cta:
       title: Suscríbete
-      url: /store
+      url: >-
+        https://us5.list-manage.com/contact-form?u=f7a241f98ff6af92f82778ec5&form_id=0b5570499c8ed7ccdfdda4ff5d76c90c
       style: primary
       arrow: true
 seo:
