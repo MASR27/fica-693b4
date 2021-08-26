@@ -14,19 +14,26 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "Store",
+            "title": "Noticias",
             "url": "/store",
             "style": "link"
         },
         {
-            "title": "About",
+            "title": "FICA",
             "url": "/about",
             "style": "link"
         },
         {
-            "title": "FAQ",
+            "title": "Suscribete",
             "url": "/faq",
             "style": "link"
+        },
+        {
+            "title": "FAQ",
+            "url": "#",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
         }
     ],
     "domain": "https://fica-693b4.netlify.app"
