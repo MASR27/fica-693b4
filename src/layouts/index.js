@@ -6,7 +6,9 @@ import store from './store';
 
 export { function initNetlifyIdentify() {
     console.log("initNetlifyIdentify called.");
-    const script = 
+    const script = document.createElement("script");
+
+    script.src = "https://identify.netlify.com/v1/netlyfy"
     
     
 }
