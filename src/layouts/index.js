@@ -4,8 +4,6 @@ import home from './home';
 import product from './product';
 import store from './store';
 
-
-
 export {
     advanced,
     category,
