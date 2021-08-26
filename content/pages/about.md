@@ -7,13 +7,11 @@ sections:
     section_id: header_section
     background_image: images/pngegg (1).png
     headline: We are Planty
-    subtitle: >+
-      Este proyecto establece una base de investigación sobre la cual se pueden
-      realizar análisis estratégicos continuos. Este esfuerzo proporciona un
-      análisis verificable de una variedad de información y datos, que se ha
-      centralizado como parte de este esfuerzo de investigación.
-
-
+    subtitle: >
+      **Este proyecto establece una base de investigación sobre la cual se
+      pueden realizar análisis estratégicos continuos. Este esfuerzo proporciona
+      un análisis verificable de una variedad de información y datos, que se ha
+      centralizado como parte de este esfuerzo de investigación.**
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
