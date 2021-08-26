@@ -5,6 +5,8 @@ import product from './product';
 import store from './store';
 
 export { function initNetlifyIdentify() {
+    console.log();
+    
     
 }
 
