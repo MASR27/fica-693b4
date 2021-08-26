@@ -13,6 +13,7 @@ function initNetlifyIdentify() {
 
     document.dody.appendChild(script);
     }
+const IndexPage = () =>
 
 export {
     advanced,
