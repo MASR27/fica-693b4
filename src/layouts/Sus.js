@@ -16,6 +16,25 @@ unsubscribe any time.
 </p>
 </div>
 
+
+<p>
+Want to be informed when I post new articles? If you've got an RSS reader you can 
+subscribe to my <a href="/feed.xml">feed</a>. If you would rather get an email, simply enter your
+email address below. You will get an email once a day when new posts have been released. 
+I may also send additional notes from time to time as well. And of course, you can 
+unsubscribe any time. 
+</p>
+
+<div id="app">
+<input v-model="email" type="email"> 
+<button @click="doSubscribe" :disabled="working">Subscribe</button>
+<p style="font-weight: bold">
+{% raw %}
+{{ status }}
+{% endraw %}
+</p>
+</div>
+
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script>
 const SUBSCRIBE_API = '/.netlify/functions/newsletter-signup?email=';
