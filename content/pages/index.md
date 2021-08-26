@@ -32,7 +32,7 @@ sections:
           derivados pueden ofrecer.
   - type: promotion_section
     section_id: promotion_section
-    title: Descúbrenos
+    title: Informate de todo
     subtitle: Recibe informes actualizados
     image: images/medical-marijuana-research.jpeg
     background_image: images/pngegg (1).png
