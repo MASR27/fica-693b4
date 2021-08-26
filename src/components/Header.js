@@ -67,7 +67,7 @@ export default class Header extends React.Component {
                                     </div>
                                 </div>
                                 <button className="link snipcart-checkout hamburger__checkout">
-                                    Checkout
+                                    Suscribete
                                     <svg width="26" height="14" viewBox="0 0 26 14" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M22.682 6.079h-22.682v1.712h22.814l-4.574 4.528 1.194 1.182 6.566-6.5-6.566-6.5-1.194 1.182 4.442 4.397z" />
                                     </svg>
