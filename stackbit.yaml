@@ -614,3 +614,6 @@ models:
   suscripcion:
     type: data
     label: suscripcion
+    fields:
+      - name: ''
+        type: string
