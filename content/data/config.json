@@ -15,7 +15,7 @@
     "main_menu": [
         {
             "title": "Noticias",
-            "url": "/store",
+            "url": "/blog",
             "style": "link"
         },
         {
