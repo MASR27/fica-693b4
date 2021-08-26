@@ -46,14 +46,14 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: FICAN
+  title: FICA
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: FICAN
+      value: FICA
       keyName: property
     - name: 'og:description'
       value: The preview of the Planty theme
@@ -65,7 +65,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: FICAN
+      value: FICA
     - name: 'twitter:description'
       value: The preview of the Planty theme
     - name: 'twitter:image'
