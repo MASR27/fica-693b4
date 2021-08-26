@@ -37,12 +37,36 @@ sections:
           *   Prevenir la posesión o el uso de marihuana en propiedad federal.
         image: images/nan_talk.jpg
       - title: Directrices
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: >
+          *   Los adultos deben consumir cannabis como parte de un estilo de
+          vida saludable, equilibrado y responsable.
+
+
+          *   La decisión de consumir cannabis debe tomarse libremente y no como
+          resultado de la presión social.
+
+
+          *   Los consumidores de cannabis deben estar bien informados sobre sus
+          efectos en ellos mismos y en los demás. Esto ncluye riesgos tanto
+          legales como para la salud y consecuencias personales.
+
+
+          *   Los consumidores de cannabis deben modelar y recompensar el uso
+          responsable, especialmente con los nuevos consumidores.
+
+
+          *   Desarrolle límites razonables de consumo de cannabis para usted,
+          basados en aspectos personales, de salud, situacionales y factores
+          culturales. 
+
+
+          *   Evite el consumo de cannabis que lo ponga a usted otras personas
+          en riesgo, como al conducir, o en el trabajo.
+
+
+          *   El consumo de cannabis debe contribuir a, en lugar de restar
+          valor, a la salud, el bienestar y creatividad, trabajo, relaciones y
+          obligaciones sociales.
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
