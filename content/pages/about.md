@@ -53,7 +53,7 @@ sections:
     section_id: promotion_section
     title: Informate de las novedades del ecosistema
     image: images/5.png
-    background_image: /images/leaf.svg
+    background_image: images/Sin título 4-0314b6d6.png
     cta:
       title: Suscríbete
       url: /store
