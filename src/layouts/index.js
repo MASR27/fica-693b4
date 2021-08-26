@@ -15,8 +15,6 @@ function initNetlifyIdentify() {
     }
 
 
-}
-
 export {
     advanced,
     category,
