@@ -68,8 +68,5 @@ seo:
       relativeUrl: true
 page_css_class: FICA
 ---
-auth.signup(email, password)
-    .then(response => console.log("Success!Check your inbox! ", response))
-    .catch(error => console.log("It 's an error", error));
-      
+
     
