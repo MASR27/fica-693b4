@@ -8,7 +8,8 @@ export { function initNetlifyIdentify() {
     console.log("initNetlifyIdentify called.");
     const script = document.createElement("script");
 
-    script.src = "https://identify.netlify.com/v1/netlyfy"
+    script.src = "https://identify.netlify.com/v1/netlyfy-identify-widget.js"
+    
     
     
 }
