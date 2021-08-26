@@ -52,7 +52,6 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Informate de las novedades del ecosistema
-    subtitle: from $149.99
     image: images/5.png
     background_image: /images/leaf.svg
     cta:
