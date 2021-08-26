@@ -46,7 +46,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: FICAN
+  title: FICA
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
