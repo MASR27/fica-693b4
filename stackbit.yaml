@@ -617,5 +617,5 @@ models:
     fields:
       - name: ''
         type: string
-      - name: ''
+      - name: erere
         type: boolean
