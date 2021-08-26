@@ -17,13 +17,7 @@ sections:
     bulletpoints:
       - title: We love plants
         description: >
-
-
           *   Prevenir la distribución de marihuana a menores.
-
-
-          *   Prevenir el desvío de marihuana de estados donde es legal bajo la
-          ley estatal de alguna forma a otros estados.
 
 
           *   Evitar que la actividad de marihuana autorizada por el estado se
@@ -31,13 +25,8 @@ sections:
           u otra actividad ilegal.
 
 
-          *   Prevenir la violencia y el uso de armas de fuego en el cultivo y
-          distribución de marihuana.
-
-
-          *   Prevenir la conducción drogada y la exacerbación de otras
-          consecuencias adversas para la salud pública asociadas con el uso de
-          marihuana;
+          *   Prevenir las consecuencias adversas para la salud pública
+          asociadas con el uso de marihuana;
 
 
           *   Prevenir el cultivo de marihuana en tierras públicas y los
