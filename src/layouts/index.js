@@ -4,10 +4,6 @@ import home from './home';
 import product from './product';
 import store from './store';
 
-import React, { Component } from 'react'
-
-import { NetlifyForm, Honeypot } from 'react-netlify-forms'
-
 
 
 export {
