@@ -14,9 +14,6 @@ function initNetlifyIdentify() {
     document.dody.appendChild(script);
     }
 
-
-}
-
 export {
     advanced,
     category,
