@@ -12,24 +12,7 @@ function initNetlifyIdentity() {
     script.async = true;
 
     document.dody.appendChild(script);
-    
-    }
 
-export {
-    advanced,
-    category,
-    home,
-    product,
-    store
-};
-
-export default {
-    advanced,
-    category,
-    home,
-    product,
-    store
-};
 <form name="simpleContactForm" method="POST" data-netlify="true" id="simple-contact-form" class="contact-form">    <p class="form-row">
         <label id="contact-form-name-label" for="contact-form-name" class="form-label">Name</label>
         <input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input" />
@@ -52,3 +35,21 @@ export default {
         <button type="submit" class="button">Send Message</button>
     </p>
 </form>
+
+    }
+
+export {
+    advanced,
+    category,
+    home,
+    product,
+    store
+};
+
+export default {
+    advanced,
+    category,
+    home,
+    product,
+    store
+};
