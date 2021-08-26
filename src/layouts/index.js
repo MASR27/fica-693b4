@@ -30,8 +30,7 @@ export default {
     product,
     store
 };
-<form name="simpleContactForm" method="POST" id="simple-contact-form" class="contact-form">
-    <p class="form-row">
+<form name="simpleContactForm" method="POST" data-netlify="true" id="simple-contact-form" class="contact-form">    <p class="form-row">
         <label id="contact-form-name-label" for="contact-form-name" class="form-label">Name</label>
         <input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input" />
     </p>
