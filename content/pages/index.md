@@ -32,7 +32,7 @@ sections:
           derivados pueden ofrecer.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Descúbrenos
     subtitle: from $149.99
     image: images/medical-marijuana-research.jpeg
     background_image: images/pngegg (1).png
