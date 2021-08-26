@@ -15,7 +15,7 @@ function initNetlifyIdentify() {
     }
 const IndexPage = () => {
     return(
-        
+        <>
     )
 
 
