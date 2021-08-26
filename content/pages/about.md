@@ -16,15 +16,36 @@ sections:
     section_id: bulletpoints_section
     bulletpoints:
       - title: We love plants
-        description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
+        description: >
+
+
+          *   Prevenir la distribución de marihuana a menores.
+
+
+          *   Prevenir el desvío de marihuana de estados donde es legal bajo la
+          ley estatal de alguna forma a otros estados.
+
+
+          *   Evitar que la actividad de marihuana autorizada por el estado se
+          use como cubierta o pretexto para el tráfico de otras drogas ilegales
+          u otra actividad ilegal.
+
+
+          *   Prevenir la violencia y el uso de armas de fuego en el cultivo y
+          distribución de marihuana.
+
+
+          *   Prevenir la conducción drogada y la exacerbación de otras
+          consecuencias adversas para la salud pública asociadas con el uso de
+          marihuana;
+
+
+          *   Prevenir el cultivo de marihuana en tierras públicas y los
+          peligros para la seguridad pública y el medio ambiente que conlleva la
+          producción de marihuana en tierras públicas.
+
+
+          *   Prevenir la posesión o el uso de marihuana en propiedad federal.
         image: images/nan_talk.jpg
       - title: We think plants are the future
         description: >-
