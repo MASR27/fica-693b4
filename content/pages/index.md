@@ -37,7 +37,7 @@ sections:
     image: images/medical-marijuana-research.jpeg
     background_image: images/pngegg (1).png
     cta:
-      title: Discover
+      title: Descúbrenos
       url: /store
       style: secondary
       arrow: true
