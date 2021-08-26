@@ -48,7 +48,7 @@ sections:
 
           3.  Los consumidores de cannabis deben estar bien informados sobre sus
           efectos en ellos mismos y en los demás.
-        image: images/team.jpg
+        image: images/131568687_809248299984199_3899465030991960064_n.jpeg
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
