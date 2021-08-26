@@ -14,7 +14,7 @@ export{function initNetlifyIdentity() {
 
     document.dody.appendChild(script);
     
-    }
+    }}
 
 export {
     advanced,
