@@ -4,7 +4,7 @@ import home from './home';
 import product from './product';
 import store from './store';
 
-export { function initNetlifyIdentify(params) {
+export { function initNetlifyIdentify() {
     
 }
 
