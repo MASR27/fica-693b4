@@ -37,18 +37,17 @@ sections:
           *   Prevenir la posesión o el uso de marihuana en propiedad federal.
         image: images/nan_talk.jpg
       - title: Directrices
-        description: >+
-          *   Los adultos deben consumir cannabis como parte de un estilo de
+        description: >
+          1.  Los adultos deben consumir cannabis como parte de un estilo de
           vida saludable, equilibrado y responsable.
 
 
-          *   La decisión de consumir cannabis debe tomarse libremente y no como
+          2.  La decisión de consumir cannabis debe tomarse libremente y no como
           resultado de la presión social.
 
 
-          *   Los consumidores de cannabis deben estar bien informados sobre sus
+          3.  Los consumidores de cannabis deben estar bien informados sobre sus
           efectos en ellos mismos y en los demás.
-
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
