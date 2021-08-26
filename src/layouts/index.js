@@ -4,7 +4,9 @@ import home from './home';
 import product from './product';
 import store from './store';
 
-export { 
+export { function name(params) {
+    
+}
 
 
 }
