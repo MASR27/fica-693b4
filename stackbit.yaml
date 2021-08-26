@@ -615,3 +615,5 @@ models:
     type: data
     label: suscripcion
     fields: []
+    singleInstance: true
+    file: ''
