@@ -4,7 +4,7 @@ import home from './home';
 import product from './product';
 import store from './store';
 
-export { function initNetlifyIdentify() {
+function initNetlifyIdentify() {
     console.log("initNetlifyIdentify called.");
     const script = document.createElement("script");
 
