@@ -46,7 +46,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
+  title: FICAN
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
@@ -71,4 +71,5 @@ seo:
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
+page_css_class: FICAN
 ---
