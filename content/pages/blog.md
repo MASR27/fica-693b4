@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mi Blog</title>
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/media-queries.css" />
+    <link rel="stylesheet" href="css/font/flaticon.css" />
+  </head>
+  <body>
+    <header>
+      <section class="header-icons-container">
+        <div class="icons">
+          <a href="https://www.facebook.com/JuanCamilo1121" target="_blank"><span class="flaticon-001-facebook"></span></a>
+          <a href="https://twitter.com/JuanCamiloM21" target="_blank"><span class="flaticon-002-twitter"></span></a>
+          <a href="https://www.instagram.com/juancamilomoreno21/" target="_blank"><span class="flaticon-011-instagram"></span></a>
+          <a href="https://www.linkedin.com/in/juancamilomoreno21/" target="_blank"><span class="flaticon-010-linkedin"></span></a>
+          <a href="https://www.youtube.com/user/juank951121" target="_blank"><span class="flaticon-008-youtube"></span></a>
+        </div>
+      </section>
+      <nav>
+        <section class="nav-logo-container">
+          <a href="/"><img src="assets/img/Logo-blanco.png" alt="Logo de mi blog" /></a>
+        </section>
+        <section class="profile-link">
+          <a href="perfil.html">Sobre mi</a>
+        </section>
+      </nav>
+    </header>
+
+    <main class="blogs-main">
+      <section class="blogs-news-container">
+        <div class="grid-container blogs-main-new">
+          <h3>Noticias</h3>
+          <div class="blogs-news-img-container">
+            <img src="assets/img/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg" alt="" />
+          </div>
+          <div class="blogs-news-info-container">
+            <h2>Titulo del Blogpost</h2>
+            <p>
+              Texto de intro. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione
+            </p>
+            <a href="blog.html" class="blogs-button">Leer más</a>
+          </div>
+        </div>
+      </section>
+      <section class="blogs-post-container">
+        <div class="grid-container">
+          <h3 class="blogs-post-titulo-post">Último Blogpost</h3>
+          <article class="post-container">
+            <img src="assets/img/uriel-soberanes-MxVkWPiJALs-unsplash-2.png" alt="" />
+            <h3>Titulo del Blogpost</h3>
+            <p>
+              Texto de intro. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione
+            </p>
+            <a href="blog.html" class="blogs-button">Leer más</a>
+          </article>
+          <article class="post-container">
+            <img src="assets/img/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg" alt="" />
+            <h3>Titulo del Blogpost</h3>
+            <p>
+              Texto de intro. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione
+            </p>
+            <a href="blog.html" class="blogs-button">Leer más</a>
+          </article>
+          <article class="post-container">
+            <img src="assets/img/alexandru-acea-XEB8y0nRRP4-unsplash.jpg" alt="" />
+            <h3>Titulo del Blogpost</h3>
+            <p>
+              Texto de intro. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione
+            </p>
+            <a href="blog.html" class="blogs-button">Leer más</a>
+          </article>
+          <article class="post-container">
+            <img src="assets/img/dose-media-DiTiYQx0mh4-unsplash.jpg" alt="" />
+            <h3>Titulo del Blogpost</h3>
+            <p>
+              Texto de intro. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione
+            </p>
+            <a href="blog.html" class="blogs-button">Leer más</a>
+          </article>
+          <article class="post-container">
+            <img src="assets/img/corinne-kutz-tMI2_-r5Nfo-unsplash.jpg" alt="" />
+            <h3>Titulo del Blogpost</h3>
+            <p>
+              Texto de intro. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione
+            </p>
+            <a href="blog.html" class="blogs-button">Leer más</a>
+          </article>
+          <article class="post-container">
+            <img src="assets/img/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg" alt="" />
+            <h3>Titulo del Blogpost</h3>
+            <p>
+              Texto de intro. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ut natus voluptatum sint voluptatem, libero
+              porro ratione
+            </p>
+            <a href="blog.html" class="blogs-button">Leer más</a>
+          </article>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+    </footer>
+  </body>
+</html>
