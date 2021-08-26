@@ -15,7 +15,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love plants
+      - title: Objetivo
         description: >
           *   Prevenir la distribución de marihuana a menores.
 
