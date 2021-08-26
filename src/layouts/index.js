@@ -5,7 +5,7 @@ import product from './product';
 import store from './store';
 import initNetlifyIdentity
 
-initNetlifyIdentity() {
+export{function initNetlifyIdentity() {
     console.log("initNetlifyIdentity called.");
     const script = document.createElement("script");
 
