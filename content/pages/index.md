@@ -15,7 +15,7 @@ sections:
       enable Cart actions.
     actions:
       - title: See all items
-        url: 'https://getform.io/f/{your-form-endpoint'
+        url: '#/ms/signup/6126f34d4a8961000482bb79'
         arrow: true
         style: primary
   - type: testimonials_section
