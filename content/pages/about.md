@@ -6,7 +6,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: images/pngegg (1).png
-    headline: We are Planty
+    headline: Fundación de Investigación Cannábica
     subtitle: >
       ## **Este proyecto establece una base de investigación sobre la cual se
       pueden realizar análisis estratégicos continuos. Este esfuerzo proporciona
