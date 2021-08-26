@@ -7,12 +7,7 @@ sections:
     section_id: hero_section
     background_image: images/nbnb.001.jpeg
     background_image_opacity: 65
-    content: >
-      # Bienvenido
-
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+    content: "# Bienvenido\n\nLas intenciones son instruir a nuestros miembros sobre los diferentes temas y formas de tratamientos con cannabis y proporcionar opciones innovadoras de cannabis medicinal para complementar su actual algoritmo de tratamiento.\_\n\n\n"
     actions:
       - title: See all items
         url: '#/ms/signup/6126f34d4a8961000482bb79'
