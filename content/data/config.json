@@ -17,13 +17,6 @@
             "title": "FICA",
             "url": "/about",
             "style": "link"
-        },
-        {
-            "title": "FAQ",
-            "url": "#",
-            "style": "primary",
-            "arrow": false,
-            "type": "action"
         }
     ],
     "domain": "https://fica-693b4.netlify.app"
